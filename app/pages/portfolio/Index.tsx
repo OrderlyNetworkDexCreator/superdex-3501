@@ -8,10 +8,10 @@ export default function PortfolioIndex() {
   const pageTitle = generatePageTitle("Portfolio");
 
   return (
-    <>
+    <div className="oui-portfolio-page">
       {renderSEOTags(pageMeta, pageTitle)}
       <OverviewModule.OverviewPage />
-    </>
+    </div>
   );
 }
 

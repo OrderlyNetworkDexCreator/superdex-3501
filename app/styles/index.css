@@ -7,6 +7,6 @@
 @tailwind utilities;
 
 /* hide trading rewards on mobile */
-.oui-box.oui-flex.oui-flex-nowrap > div:nth-child(2).oui-box.oui-flex.oui-justify-start.oui-flex-nowrap.oui-relative {
+.oui-portfolio-page .oui-box.oui-flex.oui-flex-nowrap > div:nth-child(2).oui-box.oui-flex.oui-justify-start.oui-flex-nowrap.oui-relative {
   display: none;
 }

@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "Cypherpunk",
   "VITE_SEO_SITE_DESCRIPTION": "the encrypted dex on solana",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/superdex-3501/",
+  "VITE_SEO_SITE_URL": "https://cypherdex.org",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",

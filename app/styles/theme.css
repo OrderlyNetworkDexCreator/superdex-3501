@@ -22,12 +22,12 @@
   --oui-color-success: 0 255 128;
   --oui-color-success-light: 120 255 180;
   --oui-color-success-darken: 0 200 90;
-  --oui-color-success-contrast: 0 0 0;
+  --oui-color-success-contrast: 10 10 10; /* Dark text on light green buttons */
 
   --oui-color-warning: 255 255 100;
   --oui-color-warning-light: 255 255 180;
   --oui-color-warning-darken: 200 200 80;
-  --oui-color-warning-contrast: 0 0 0;
+  --oui-color-warning-contrast: 10 10 10; /* readable on yellow */
 
   --oui-color-fill: 5 5 10;
   --oui-color-fill-active: 10 10 20;
@@ -43,13 +43,13 @@
   --oui-color-base-9: 0 0 0;
   --oui-color-base-10: 0 0 0;
 
-  --oui-color-base-foreground: 200 255 200;
+  --oui-color-base-foreground: 230 255 230; /* Brighter text overall */
   --oui-color-line: 0 255 128;
 
   --oui-color-trading-loss: 255 50 100;
-  --oui-color-trading-loss-contrast: 0 0 0;
+  --oui-color-trading-loss-contrast: 10 10 10; /* readable text inside loss btn */
   --oui-color-trading-profit: 0 255 128;
-  --oui-color-trading-profit-contrast: 0 0 0;
+  --oui-color-trading-profit-contrast: 10 10 10; /* readable text inside profit btn */
 
   /* gradients */
   --oui-gradient-primary-start: 0 255 128;
